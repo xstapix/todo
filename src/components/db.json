@@ -1,0 +1,41 @@
+{
+  "lists": [
+    {
+      "task": "666666666666666666666666666666666666666",
+      "id": 1
+    },
+    {
+      "task": "rfew",
+      "id": 4
+    },
+    {
+      "task": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis in voluptates itaque delectus nam accusamus consequuntur! Ratione aspernatur, debitis voluptatum illum optio perferendis voluptas doloremque esse odio laudantium porro sequi!",
+      "id": 6
+    },
+    {
+      "task": "5",
+      "id": 7
+    },
+    {
+      "task": "fd",
+      "id": 8
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#47DA70",
+      "name": "green"
+    },
+    {
+      "id": 2,
+      "hex": "#47A5DA",
+      "name": "blue"
+    },
+    {
+      "id": 3,
+      "hex": "#DA47A8",
+      "name": "pink"
+    }
+  ]
+}
